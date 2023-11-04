@@ -2,7 +2,7 @@
 
 Welcome to Project lipsum-text, a neon-themed Lorem Ipsum text generator with a history feature. Create stylish placeholder text and keep track of your generated content.
 
-![Demo GIF]()
+![Demo GIF](https://github.com/iamovi/lipsum-text/blob/main/preview.gif)
 
 - [Click here](https://lipsum-text.netlify.app/) for live preview!
 
